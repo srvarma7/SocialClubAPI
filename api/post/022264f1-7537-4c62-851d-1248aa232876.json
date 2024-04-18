@@ -1,0 +1,12 @@
+{
+    "data":
+    {
+            "likes": 283,
+            "postId": "022264f1-7537-4c62-851d-1248aa232876",
+            "profile_image": "https://images.kooapp.com/gprofiles/profiles/11664193/c05e75f0-ba92-4d0c-9b30-fcebaf6b3cf8voke.jpg",
+            "thumbnail_url": "https://gcs-media.kooapp.com/vhls/2023/347/wqrolie0-xsdz4brk-w79yijzx-5l922h5m/hls1.0/prod/image.0000003.jpg",
+            "username": "Virat",
+            "videoUrl": "https://gcs-media.kooapp.com/vhls/2023/345/adqbzxes-vn9r3ghj-07b4ytvo-xect50sb/hls1.0/prod/out.m3u8"
+        },
+    "status": "success"
+}

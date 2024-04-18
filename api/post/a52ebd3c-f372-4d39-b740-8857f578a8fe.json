@@ -1,0 +1,12 @@
+{
+    "data":
+    {
+            "likes": 39,
+            "postId": "a52ebd3c-f372-4d39-b740-8857f578a8fe",
+            "profile_image": "https://images.kooapp.com/gprofiles/profiles/2412461/eb2b8307-0d10-4387-8f57-8b0313203f7avoke.jpg",
+            "thumbnail_url": "https://gcs-media.kooapp.com/vhls/2023/308/d8a42c02-ca1e-43cb-8c22-3df252289ae6/hls1.0/prod/image.0000005.jpg",
+            "username": "Rishikaa",
+            "videoUrl": "https://gcs-media.kooapp.com/vhls/2023/308/d8a42c02-ca1e-43cb-8c22-3df252289ae6/hls1.0/prod/out.m3u8"
+        },
+    "status": "success"
+}

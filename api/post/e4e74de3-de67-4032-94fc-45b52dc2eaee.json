@@ -1,0 +1,12 @@
+{
+    "data":
+    {
+            "likes": 9,
+            "postId": "e4e74de3-de67-4032-94fc-45b52dc2eaee",
+            "profile_image": "https://images.kooapp.com/gprofiles/profiles/4269899/73278BA5-1CBD-4D09-ABA0-0CFE4F0F5330-profile.jpeg",
+            "thumbnail_url": "https://gcs-media.kooapp.com/vhls/2023/193/D4D8527B-AEC8-487B-A28E-FB4C080CF494/hls1.0/prod/image.jpg",
+            "username": "Sai",
+            "videoUrl": "https://gcs-media.kooapp.com/vhls/2023/193/D4D8527B-AEC8-487B-A28E-FB4C080CF494/hls1.0/prod/out.m3u8"
+        },
+    "status": "success"
+}
